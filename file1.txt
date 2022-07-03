@@ -1,0 +1,8 @@
+
+read -p "hello please enter your name" name
+if [ $name == ilai ] 
+then
+echo "hello $name"
+else 
+echo "error"
+fi 
