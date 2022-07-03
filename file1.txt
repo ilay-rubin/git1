@@ -1,7 +1,7 @@
 read -p "please enter your name please" name
-if [ $name == "ilai" ] 
+if [ $name == "ilay" ] 
 then 
-echo "hello ilai"
+echo "hello ilay"
 else 
 echo "error"
 fi 
